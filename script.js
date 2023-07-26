@@ -7,4 +7,5 @@ function factorial(n) {
 
 let Persona = {
     nombre: "Joe Hurtado Plata",
+    fechaNaciemiento: "1968-05-28",
 }
